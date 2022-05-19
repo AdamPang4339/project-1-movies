@@ -1,5 +1,5 @@
 # project-1-movies
-Runs queries on specified movie data set from the IMDB movie database.
+Python project that runs specific queries on specified movie data sets from the IMDB movie database. Information is sorted and outputted in pre-specified queries. 
 
 ## Project Files
 - **movies_main**: Driver file that takes in inputs to run queries on a specified dataset. Queries can be found in imported query_call.py file, and datasets are read in read_data.py file.
