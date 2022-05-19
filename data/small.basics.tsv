@@ -1,0 +1,17 @@
+tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres
+tt0033467	movie	Citizen Kane	Citizen Kane	0	1941	\N	119	Drama,Mystery
+tt0052357	movie	Vertigo	Vertigo	0	1958	\N	128	Mystery,Romance,Thriller
+tt0081505	movie	The Shining	The Shining	0	1980	\N	146	Drama,Horror
+tt0363921	movie	Raeeszada	Raeeszada	0	1990	\N	149	Drama
+tt0110632	movie	Natural Born Killers	Natural Born Killers	0	1994	\N	118	Action,Crime,Drama
+tt0110912	movie	Pulp Fiction	Pulp Fiction	0	1994	\N	154	Crime,Drama
+tt0111161	movie	The Shawshank Redemption	The Shawshank Redemption	0	1994	\N	142	Drama
+tt0114436	movie	Showgirls	Showgirls	0	1995	\N	128	Drama
+tt0114558	movie	Strange Days	Strange Days	0	1995	\N	145	Action,Crime,Drama
+tt0114814	movie	The Usual Suspects	The Usual Suspects	0	1995	\N	106	Crime,Mystery,Thriller
+tt0114885	movie	Waiting to Exhale	Waiting to Exhale	0	1995	\N	124	Comedy,Drama,Romance
+tt0201443	movie	Backlash	Backlash	0	1994	\N	\N	Action,Crime,Drama
+tt0285665	movie	Kuruthipunal	Kuruthipunal	0	1995	\N	143	Action,Drama,Thriller
+tt0816692	movie	Interstellar	Interstellar	0	2014	\N	169	Adventure,Drama,Sci-Fi
+tt1579705	movie	Street Fighter	Street Fighter	0	1995	\N	148	Action
+tt4154756	movie	Avengers: Infinity War	Avengers: Infinity War	0	2018	\N	149	Action,Adventure,Sci-Fi
