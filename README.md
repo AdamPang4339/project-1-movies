@@ -10,3 +10,5 @@ Runs queries on specified movie data set from the IMDB movie database.
 
 ## Command Line Usage
 `$ python 3 movies_main.py small`
+
+Command line usage initially meant to include 0 command line arguments option, but was removed due to file size errors when importing into GitHub. Errors will appear if command line argument "small" is not provided.
